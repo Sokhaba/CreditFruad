@@ -2,7 +2,7 @@
 This repository contains code for building a machine learning model to detect credit card fraud using Python and various data science libraries.
 
 ## Dataset ##
-The dataset used in this project is the __Credit Card Fraud Detection dataset__ from Kaggle. It contains over 280,000 credit card transactions, with approximately 0.17% of them being fraudulent. The dataset is highly imbalanced, making it a challenging problem to solve.
+The dataset used in this project is the [Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) from Kaggle. It contains over 280,000 credit card transactions, with approximately 0.17% of them being fraudulent. The dataset is highly imbalanced, making it a challenging problem to solve.
 
 ## Requirements ##
 - Python 3.6+
